@@ -1,10 +1,6 @@
 # glistopad-injector
 DLL Injector
 
-# glistopad injector
-
-A lightweight DLL injector for Windows.
-
 ## Features
 - CreateRemoteThread + LoadLibraryA injection
 - Auto-detects DLL in the same folder
